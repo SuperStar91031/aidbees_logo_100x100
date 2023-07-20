@@ -1,0 +1,81 @@
+/* .Drive-new{
+    background-color: f05368;
+    border: 1px solid #f05368;
+    padding: 6px 28px;
+}
+.Drive-new:hover{
+  background-color: white;
+  border: 1px solid #f05368;
+  color: #f05368;
+  padding: 6px 28px;
+} */
+.btn-primary {
+  background: #f05368;
+  color: #fff !important;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 6px 28px;
+  border: 2px solid #f05368 !important;
+  border-radius: 7px;
+  
+}
+.btn-primary:hover {
+  background: #fff;
+  color: #f05368 !important;
+}
+
+
+.text-Drive {
+  color: #f05368;
+}
+.Document-detail-heading {
+  background-color: white;
+  position: fixed;
+  width: 68%;
+   /* max-width: 1366px; */
+   
+}
+.Font-width{
+ font-weight: 600;
+}
+.document-tbl{
+  padding-top: 64px;
+}
+tr{
+  text-align: center;
+}
+.background-none1{
+  background: none;
+  border:none;
+}
+.text-size{
+font-size: 14px;
+}
+
+.attach-modal-width{
+  max-width:21%;
+}
+
+.shadow1{
+  box-shadow: 0px 3px 3px rgba(197, 192, 192, 0.25);
+  }
+
+  .submitted-modal-width{
+    max-width: 22%;
+  }
+
+  
+.display-center{
+  display: flex;
+  justify-content: center;
+}
+.ModelInputlabel {
+  font-size: 13px;
+  font-weight: bolder;
+}
+.modalInputBox{
+  font-size: 13px;
+}
+.textareaModal{
+  font-size: 13px;
+}

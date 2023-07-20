@@ -1,0 +1,86 @@
+
+.text-Report {
+    color: #f05368;
+  }
+
+  .Report-add-btn {
+    background-color: #f05368;
+    color: #fff !important;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 6px 28px;
+    border: 2px solid #f05368 !important;
+    border-radius: 7px;
+    
+  }
+  .Report-add-btn:hover {
+    background-color: #fff;
+    color: #f05368 !important;
+  }
+
+  tr.report{
+    text-align: center;
+  }
+
+  .inputintbl {
+    border: 0.547396px solid rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 4.37917px 4.37917px rgb(0 0 0 / 25%);
+    border-radius: 4.37917px;
+    font-size: 13px;
+}
+
+
+.select-box {
+    padding: 6px 15px;
+
+}
+input.inputintbl.text-box {
+        padding: 3px 14px;
+}
+.text-size{
+    font-size: 13px;
+}
+.graph-tab-btn{
+  padding: 4px 61px;
+  color: white;
+  border: 1px solid #f05368;
+  background-color: #f05368;
+  border-radius: 6px;
+}
+
+.select-type-graph{
+  /* width: 94%; */
+  border-radius: 6px;
+  border: 1px solid #000;
+}
+
+  option:hover {
+    background-color: red !important;
+}
+
+
+  .lead-txt {
+    padding-top: 0px;
+    font-size: 23px;
+    padding-left: 14px;
+    font-weight: 600;
+}
+#graphReport {
+  max-width: 80%;
+}
+.table-report-width {
+  max-width: 92%;
+}
+#TableReport td {
+  font-size: 14px;
+}
+.background-none1{
+  background: none;
+  border:none;
+}
+.display-end {
+  /* padding-left: 88%; */
+  /* float: right; */
+  display: flex;
+  justify-content: flex-end;
+}

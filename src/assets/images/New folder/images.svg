@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="Group_352" data-name="Group 352" transform="translate(-1065 -602)">
+    <rect id="Rectangle_90" data-name="Rectangle 90" width="64" height="64" rx="6" transform="translate(1065 602)" fill="#bebebe"/>
+    <g id="Group_18" data-name="Group 18" transform="translate(1077.809 617.841)">
+      <path id="Path_48" data-name="Path 48" d="M225.651,305.508a3.9,3.9,0,1,0-3.9-3.9,3.906,3.906,0,0,0,3.9,3.9Zm0-5.514a1.613,1.613,0,1,1-1.613,1.613,1.615,1.615,0,0,1,1.613-1.613Zm0,0" transform="translate(-207.965 -290.398)" fill="#fff"/>
+      <path id="Path_49" data-name="Path 49" d="M78.623,201.89h-36.2A1.427,1.427,0,0,0,41,203.316v30.639a1.428,1.428,0,0,0,1.426,1.426h36.2a1.428,1.428,0,0,0,1.426-1.426V203.316a1.427,1.427,0,0,0-1.426-1.426Zm-.862,2.288v18.106l-7.2-7.2a1.2,1.2,0,0,0-1.7,0L58.687,225.266l-6.5-6.5a1.2,1.2,0,0,0-1.7,0l-7.2,7.2V204.178ZM43.288,233.092v-3.9l8.046-8.046,6.5,6.5a1.2,1.2,0,0,0,1.7,0l10.178-10.178,8.047,8.047v7.572Zm0,0" transform="translate(-41 -201.89)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg id="icon-eductation" xmlns="http://www.w3.org/2000/svg" width="105" height="105" viewBox="0 0 105 105">
+  <rect id="Rectangle_1204" data-name="Rectangle 1204" width="104.009" height="105" rx="6" fill="#bebebe"/>
+  <g id="Group_166" data-name="Group 166" transform="translate(15.309 29.295)">
+    <path id="Path_222" data-name="Path 222" d="M70.356,54.62,36.579,42.589a2.082,2.082,0,0,0-1.4,0L1.4,54.62a2.129,2.129,0,0,0,0,4L35.175,70.743a2.082,2.082,0,0,0,1.408,0L70.361,58.621a2.129,2.129,0,0,0,0-4Z" transform="translate(0 -42.468)" fill="#fff"/>
+    <path id="Path_223" data-name="Path 223" d="M437.172,216.246V197.734l-4.2,1.509v17a4.282,4.282,0,0,0,0,7.392v10.43a2.1,2.1,0,1,0,4.2,0v-10.43a4.282,4.282,0,0,0,0-7.392Z" transform="translate(-370.463 -175.766)" fill="#fff"/>
+    <path id="Path_224" data-name="Path 224" d="M126.545,229.595a6.238,6.238,0,0,1-2.113-.368l-18.988-6.815v9.339c0,2.285,2.361,4.217,7.018,5.743a49.112,49.112,0,0,0,28.166,0c4.657-1.526,7.018-3.458,7.018-5.743v-9.339l-18.988,6.815A6.239,6.239,0,0,1,126.545,229.595Z" transform="translate(-90.666 -196.952)" fill="#fff"/>
+  </g>
+</svg>
